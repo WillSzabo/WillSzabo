@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WillSzabo
-- 👀 I’m interested in solving unique problems through innovative solutions.
-- 🌱 I’m currently learning to be a full-stack developer as a Java Student at Tech Elevator Pittsburgh.
-- 💞️ I’m looking to collaborate on and projects that can help me grow as a developer.
+- 👀 I’m interested in simulation software, robotics programming, machine learning, aerospace software, artificial intellegence and more.
+- 🌱 I’m a full-stack Java developer turned Simulation Consultant working for SimWell Consulting & Technologies Inc.
+- 💞️ I’m looking to collaborate and work on innovative projects where I can push myself and grow as a developer, and just have fun.
 - 📫 How to reach me... message me on LinkedIn here --> https://www.linkedin.com/in/william-szabo-792855123/
 
 <!---
