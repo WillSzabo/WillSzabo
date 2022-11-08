@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WillSzabo
-- 👀 I’m interested in simulation software, robotics programming, machine learning, aerospace software, artificial intellegence and more.
-- 🌱 I’m a full-stack Java developer turned Simulation Consultant working for SimWell Consulting & Technologies Inc.
-- 💞️ I’m looking to collaborate and work on innovative projects where I can push myself and grow as a developer, and just have fun.
+- 👀 I’m interested in software development, data science, and simulation modeling, particularly related to robotics and artificial intelligence - machine learning - deep learning.
+- 🌱 I’m a full-stack Java developer turned Simulation Consultant working for SimWell Consulting & Technologies Inc. I'm also a budding data scientiest currently pursuing my M.S. in Data Analytics.
+- 💞️ I’m looking to collaborate and work on innovative projects where I can push myself, grow as a developer, and just have fun.
 - 📫 Best place to reach me... message me on LinkedIn here --> https://www.linkedin.com/in/william-szabo-792855123/
 
 <!---
